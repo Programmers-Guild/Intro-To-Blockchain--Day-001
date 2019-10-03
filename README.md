@@ -35,6 +35,4 @@ This is the first lesson in the blockchain development class. This repo goes ove
 - Blockchain demo, block: [https://anders.com/blockchain/block](https://anders.com/blockchain/block)
 - Blockchain demo, blockchain: [https://anders.com/blockchain/blockchain](https://slack-redir.net/link?url=https%3A%2F%2Fanders.com%2Fblockchain%2Fblockchain)
 
-### Video Lecture
 
-https://www.youtube.com/watch?v=26PlXGQ0LMg&feature=youtu.be
